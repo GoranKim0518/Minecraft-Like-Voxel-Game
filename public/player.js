@@ -6,8 +6,8 @@ export const player = {
     speed: 0.09,
     onGround: false,
 
-    // Player is now 1.8 blocks tall.
-    height: 1.,
+    // Player is now 1.25 blocks tall.
+    height: 1.25,
 
     // Jump strength stays the same; feel free to adjust if desired.
     jumpStrength: 0.08,
